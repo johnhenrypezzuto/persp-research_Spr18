@@ -80,15 +80,15 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | Apr  4 | W | Proposal presentations |  | [Proposal slides & present](assignments/project-proposal.md) |
 | Apr  9 | M | Data/methods section of paper | [Slides](slides/data-methods-slides.html) |  |
 | Apr 11 | W | Computational results section of paper | [Slides](slides/results-slides.html) |  |
-| Apr 16 | M | Kernel density estimation | [Notes_a](https://github.com/UC-MACSS/persp-research_Spr18/blob/master/notebooks/KDE/KDE.ipynb) | [PS1](ps1.md) |
-|        |   |                           | [Notes_b](https://github.com/UC-MACSS/persp-research_Spr18/blob/master/notebooks/KDE/05.13-Kernel-Density-Estimation.ipynb) |   |
+| Apr 16 | M | Kernel density estimation | [Notes_a](notebooks/KDE/KDE.ipynb) | [PS1](assignments/ps1.md) |
+|        |   |                           | [Notes_b](notebooks/KDE/05.13-Kernel-Density-Estimation.ipynb) |   |
 | Apr 18 | W | Interaction terms | [Notes](http://cfss.uchicago.edu/persp013_interaction_terms.html) |  |
-| Apr 23 | M | Parallel computing | [Notes](https://github.com/UC-MACSS/persp-research_Spr18/blob/master/notebooks/Parallel/parallel.ipynb) | [Literature review section](assignments/lit-review.md) |
+| Apr 23 | M | Parallel computing | [Notes](notebooks/Parallel/parallel.ipynb) | [Literature review section](assignments/lit-review.md) |
 | Apr 25 | W | Workshop papers/office visits |  |  |
-| Apr 30 | M | Deep learning with Python/R |  | [PS2](https://github.com/UC-MACSS/persp-research_Spr18/blob/master/assignments/PS2/PS2.pdf) |
-| May  2 | W | Deep learning with Python/R |  |  |
-| May  7 | M | Deep learning with Python/R |  |  |
-| May  9 | W | Deep learning with Python/R |  | Methods/initial results section |
+| Apr 30 | M | Missing data | [Notes](http://cfss.uchicago.edu/persp014_missing_data.html) | [PS2](assignments/PS2/PS2.pdf) |
+| May  2 | W | Deep learning with Python/R | DL ch. 1-2 |  |
+| May  7 | M | Deep learning with Python/R | DL ch. 3  |  |
+| May  9 | W | Deep learning with Python/R |  | [Methods/initial results section](assignments/methods-results.md) |
 | May 14 | M | Workshop papers/office visits |  | PS3 |
 | May 16 | W | Effective presentations, poster,slides |  |  |
 | May 21 | M | Markov and hidden Markov models |  |  |
